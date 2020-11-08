@@ -1,0 +1,17 @@
+{
+    "en": {
+        "hello": "Hello World"
+    },
+    "es": {
+        "hello": "Hola Mundo"
+    },
+    "fr": {
+        "hello": "Bonjour le monde"
+    },
+    "de": {
+        "hello": "Hallo Welt"
+    },
+    "ru": {
+        "hello": "Привет мир"
+    }
+}
